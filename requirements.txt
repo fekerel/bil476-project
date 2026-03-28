@@ -1,0 +1,10 @@
+# Kurulum: pip install -r requirements.txt
+
+ucimlrepo==0.0.7       # UCI ML Repository API
+xlrd==2.0.2            # Excel (.xls) okuma — local dataset fallback için
+pandas==3.0.1
+numpy==2.4.3
+scikit-learn==1.8.0
+matplotlib==3.10.8
+seaborn==0.13.2
+ipykernel
