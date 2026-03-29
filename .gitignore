@@ -1,3 +1,8 @@
 project_description/
 __pycache__/
 .venv/
+related_sources/
+*.txt
+!/requirements.txt
+*.md
+!README.md
